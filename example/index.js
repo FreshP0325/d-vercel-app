@@ -1,7 +1,7 @@
 const go = require('..')
 
 const config = {
-  '/': 'https://github.com/amio/now-go',
+  '/': 'https://github.com/FreshP0325/d-vercel-app/blob/master/README.md',
   '/tag': 'Now go, let the legend come back to life!',
   '/hero': 'https://amio.github.io/now-go/ocelot.jpg',
   '*': (req) => {
